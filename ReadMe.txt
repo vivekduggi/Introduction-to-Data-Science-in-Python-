@@ -1,0 +1,1 @@
+This repository contains exercises and assignments featured in Coursera's Introduction to Data Science in Python MOOC.
